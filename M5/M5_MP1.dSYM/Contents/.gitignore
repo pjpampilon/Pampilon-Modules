@@ -1,7 +1,0 @@
-# Ignore compiled macOS binaries and build artifacts
-*.dSYM/
-*.out
-*.o
-
-# Executables without extensions (like M5_MP1)
-M5_MP1
